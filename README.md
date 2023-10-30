@@ -1,5 +1,7 @@
 # PythonPoo
-Matéria de Python Orientado  Objetos da Faculdade.
 <h1>
-  Máteria do segundo semestre de Análise e Desenvolvimento de Sistemas.
+  Python Orientado a Objetos
 </h1>
+<h2>
+  máteria do segundo semestre de Análise e Desenvolvimento de Sistemas.
+</h2>
