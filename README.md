@@ -3,7 +3,7 @@
   Python Orientado a Objetos
 </h1>
 <li>
-   Máteria do segundo semestre de Análise e Desenvolvimento de Sistemas.
+   Máteria do 2º semestre de Análise e Desenvolvimento de Sistemas.
 </li>
 <li>
    Ministrada pelo Professor Lucio Nunes de Lira.
